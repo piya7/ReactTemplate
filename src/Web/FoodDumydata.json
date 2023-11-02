@@ -1,0 +1,63 @@
+[
+    {
+        "img": "/nonsld.jpg",
+        "name": "FRUIT SALAD",
+        "price": "$80"
+
+        },
+        {
+            "img": "/manchurian.jpg",
+            "name": "Mohit Manchurian",
+            "price": "$1000"
+        },
+        {
+            "img": "/Vada pao.jpg",
+            "name": " Mohit Vada Pao",
+            "price": "$500"
+    },
+    {
+        "img": "/pasta.jpg",
+        "name": "Mohit Pasta",
+        "price": "$600"
+    },
+    {
+        "img": "/buffe.jpg",
+        "name": "Mohit Buffe",
+        "price": "$80"
+        },
+        {
+            "img": "/cake.jpg",
+            "name": "Mohit cake",
+            "price": "$100"
+        },
+        {
+            "img": "/fruit.jpg",
+            "name": "Mohit FRUIT",
+            "price": "$100"
+    },
+    {
+        "img": "/veg-salad.jpg",
+        "name": "Mohit veg salad",
+        "price": "$100"
+    },
+    {
+        "img": "/pakora.jpg",
+        "name": "Mohit Pakora",
+        "price": "$100"
+        },
+        {
+            "img": "/pizza.jpg",
+            "name": "Mohit Pizza",
+            "price": "$100"
+        },
+        {
+            "img": "/nonV.jpg",
+            "name": "Mohit Manchurian",
+            "price": "$100"
+    },
+    {
+        "img": "/Dry.jpg",
+        "name": "Mohit dhosa",
+        "price": "$100"
+    }
+]
